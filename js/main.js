@@ -13,7 +13,7 @@ function reportWindowSize() {
   //console.log(window.innerWidth);
   if (window.innerWidth < 576) {
     rellax.destroy();
-  } else if (window.innerWidth >= 576) {
+  } else {
     rellax.refresh();
   }
 }
