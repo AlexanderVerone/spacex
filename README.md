@@ -12,7 +12,9 @@ Page is a copy of SpaceX Falcon Heavy page.
 - Rellax.js (Plugin for parallax effects from https://dixonandmoe.com/rellax/)
 
 ### Usage
-
+You can choose one of the methods below:  
+- Open https://alexanderverone.github.io/spacex/  
+or  
 - Copy this project
 - Open ```index.html``` file from root folder in your browser
 
